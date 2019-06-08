@@ -4,6 +4,6 @@
 !/static/js/
 !/static/css/
 !/static/tiebastatic/
-!/index.html
-!/post.html
+!index.html
+!post.html
 !README.md
